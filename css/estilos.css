@@ -1,0 +1,44 @@
+body {
+  font-size: 16px; }
+
+.logo {
+  font-size: 5rem; }
+
+.logo, h1, h2, h3 {
+  font-family: "Pacifico", cursive; }
+
+h1 {
+  font-size: 5rem;
+  margin-top: 4rem;
+  margin-bottom: 3rem; }
+
+.titulos {
+  color: #082d47; }
+
+.slider .indicators .indicator-item.active {
+  background-color: #234d70;
+  color: #234d70; }
+
+.titulo-gatos {
+  margin-top: 5rem; }
+
+.gatos {
+  border-radius: 8px; }
+
+.icono {
+  color: #0d4a77; }
+
+.tarjeta {
+  margin: 0;
+  padding: 20px; }
+
+.card-panel p {
+  margin: 0; }
+
+.contenedor-gatos {
+  margin-bottom: 5rem; }
+
+.gatitos {
+  margin-bottom: 3rem; }
+
+/*# sourceMappingURL=estilos.css.map */
